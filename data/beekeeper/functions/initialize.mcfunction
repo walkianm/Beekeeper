@@ -1,0 +1,4 @@
+scoreboard objectives add beekeeper_hasBee
+scoreboard objectives add beekeeper_numBee
+scoreboard objectives add beekeeper_prSlot
+scoreboard objectives add beekeeper_slot
